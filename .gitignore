@@ -1,0 +1,8 @@
+# Automatically created by mypy
+* 此文件用于说明那些文件不上传于GitHub
+
+# VS系统文件不上传
+.vs
+# python配置环境不上传
+.Python3.9x64env
+
